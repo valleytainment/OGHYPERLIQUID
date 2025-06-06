@@ -1,0 +1,29 @@
+# Enhanced Ultimate Master Bot v2.0 - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.22.0
+pandas>=2.0.0
+matplotlib>=3.5.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Technical Analysis
+ta>=0.11.0
+
+# Optional: HyperLiquid SDK (install manually if available)
+# hyperliquid-python-sdk
+
+# Optional: Ethereum account management
+# eth-account
+
+# System requirements (install via system package manager):
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS/RHEL: sudo yum install tkinter
+# macOS: Usually included with Python
+# Windows: Usually included with Python
+
